@@ -1,9 +1,115 @@
 {
   "name": "PCWJ2030 Written Corpus",
-  "version": "1.0",
-  "description": "A comprehensive body of work covering tantra, energy alchemy, consciousness, and human development.",
-  "tags": ["tantra", "energy", "alchemy", "consciousness", "self-development"],
+  "version": "1.0.0",
+  "description": "A structured corpus of the PCWJ2030 written work on tantra, energy alchemy, consciousness, and human development.",
+  "author": {
+    "name": "Chris Johnson", "Pastor CW Johnson", "PCWJ2030", "Vision",
+    "website": "https://your-website-here.com",
+    "contact": "vigilantarizona@protonmail.com"
+  },
   "license": "CC-BY-4.0",
-  "contact": "vigilantarizona@protonmail.com"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/pcwj2030"
+  },
+  "structure": {
+    "root_files": [
+      "README.md",
+      "LICENSE",
+      "manifest.json"
+    ],
+    "directories": {
+      "essays": {
+        "description": "Standalone essays organized by theme.",
+        "subdirectories": [
+          "philosophy",
+          "tantra",
+          "personal-development"
+        ]
+      },
+      "books": {
+        "description": "Long-form, multi-chapter works.",
+        "layout_example": "books/book-title-1/01-introduction.md"
+      },
+      "transcripts": {
+        "description": "Session, workshop, and interview transcripts (anonymized as needed).",
+        "subdirectories": [
+          "sessions",
+          "workshops",
+          "interviews"
+        ]
+      },
+      "poetry": {
+        "description": "Poetic and symbolic writings.",
+        "subdirectories": [
+          "pieces",
+          "collections"
+        ]
+      },
+      "articles": {
+        "description": "Shorter works, including published and unpublished articles.",
+        "subdirectories": [
+          "published",
+          "unpublished"
+        ]
+      },
+      "metadata": {
+        "description": "Auxiliary data for indexing and programmatic use.",
+        "files": [
+          "tags.csv",
+          "categories.csv",
+          "vector-notes.txt"
+        ]
+      }
+    }
+  },
+  "content": {
+    "primary_topics": [
+      "tantra",
+      "energy alchemy",
+      "consciousness",
+      "shadow work",
+      "personal transformation",
+      "embodiment",
+      "human potential"
+    ],
+    "languages": [
+      "en"
+    ],
+    "format": "markdown",
+    "file_conventions": {
+      "naming": "kebab-case",
+      "extension": ".md",
+      "front_matter": {
+        "example": {
+          "title": "Heart Chakra Alchemy",
+          "tags": ["tantra", "energy", "heart", "alchemy"],
+          "date": "2024-07-12",
+          "summary": "Exploration of rising heart-centered energy and its role in personal and spiritual transformation."
+        }
+      }
+    }
+  },
+  "usage": {
+    "intended_uses": [
+      "training and evaluation of language models",
+      "research on consciousness, energy work, and transformation",
+      "search and retrieval over thematic spiritual content",
+      "educational and reference purposes"
+    ],
+    "constraints": [
+      "Attribution required as per CC-BY-4.0.",
+      "Do not misrepresent authorship or modify texts without indicating edits."
+    ]
+  },
+  "tags": [
+    "corpus",
+    "tantra",
+    "consciousness",
+    "energy",
+    "alchemy",
+    "self-development",
+    "spirituality"
+  ]
 }
 
