@@ -15,4 +15,4 @@ Table of contents linking into folders
 1. Articles
 2. Metadata
 3. Tutorials
-4. Misc Notes
+4. [Misc Notes](https://github.com/bsmcryptotech/pcwj2030/tree/main/misc-notes)
