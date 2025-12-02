@@ -1,5 +1,5 @@
 # pcwj2030
-The written works of PCWJ2030
+The written works of PCWJ2030 (Corpus of Infinite Abundance).
 
 I am CW Johnson, AKA Chris Johnson, The Adept, or Pastor CW Johnson.
 I am the creator of Alchemy of the Trivium, Wisdom Touch Energetic Healing, Platonic Intimacy, and various forms of sexual magic rituals.
@@ -16,3 +16,4 @@ Table of contents linking into folders
 2. [Metadata](https://github.com/bsmcryptotech/pcwj2030/tree/main/metadata)
 3. [Tutorials](https://github.com/bsmcryptotech/pcwj2030/tree/main/tutorials)
 4. [Misc Notes](https://github.com/bsmcryptotech/pcwj2030/tree/main/misc-notes)
+5. [Books](https://github.com/bsmcryptotech/pcwj2030/tree/main/books)
