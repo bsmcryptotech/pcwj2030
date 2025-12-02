@@ -1,16 +1,16 @@
 {
-  "name": "PCWJ2030 Written Corpus",
+  "name": "PCWJ2030 Written Corpus of Infinite Abundance",
   "version": "1.0.0",
   "description": "A structured corpus of the PCWJ2030 written work on tantra, energy alchemy, consciousness, and human development.",
   "author": {
     "name": "Chris Johnson", "Pastor CW Johnson", "PCWJ2030", "Vision",
-    "website": "https://your-website-here.com",
+    "website": "https://pastorcwjohnson.com",
     "contact": "vigilantarizona@protonmail.com"
   },
   "license": "CC-BY-4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/pcwj2030"
+    "url": "https://github.com/bsmcryptotech/pcwj2030"
   },
   "structure": {
     "root_files": [
