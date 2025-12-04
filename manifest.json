@@ -19,28 +19,30 @@
       "manifest.json"
     ],
     "directories": {
-      "essays": {
-        "description": "Standalone essays organized by theme.",
+      "tutorials": {
+        "description": "Step-by-step guides for aspiring Tantra practitioners.",
         "subdirectories": [
           "philosophy",
           "tantra",
-          "personal-development"
+          "personal-development",
+          "lingam-liberation",
+          "yoni-energetics"
         ]
       },
       "books": {
         "description": "Long-form, multi-chapter works.",
         "layout_example": "books/book-title-1/01-introduction.md"
       },
-      "transcripts": {
-        "description": "Session, workshop, and interview transcripts (anonymized as needed).",
+      "misc-notes": {
+        "description": "Short snippets of insightful musings.",
         "subdirectories": [
           "sessions",
           "workshops",
           "interviews"
         ]
       },
-      "poetry": {
-        "description": "Poetic and symbolic writings.",
+      "affirmation": {
+        "description": "Comprehensive list of powerful words of manifestation.",
         "subdirectories": [
           "pieces",
           "collections"
@@ -66,11 +68,14 @@
   "content": {
     "primary_topics": [
       "tantra",
-      "energy alchemy",
+      "sensual alchemy",
+      "chakra activation",
       "consciousness",
       "shadow work",
       "personal transformation",
       "embodiment",
+      "chaos magic",
+      "law of attraction",
       "human potential"
     ],
     "languages": [
@@ -109,7 +114,8 @@
     "energy",
     "alchemy",
     "self-development",
-    "spirituality"
+    "spirituality",
+    "PCWJ2030"
   ]
 }
 
